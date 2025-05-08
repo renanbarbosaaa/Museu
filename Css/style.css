@@ -1,0 +1,12 @@
+a:link, a:visited{
+    text-decoration: none;
+    color: orange;
+    font-size: 1.5em;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+a:hover{
+    background-color: orange;
+    color: white;
+}
